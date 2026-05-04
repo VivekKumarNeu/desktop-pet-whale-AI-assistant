@@ -3,6 +3,8 @@
 
 A sleek, animated desktop AI assistant and focus companion powered by local LLMs via **Ollama**. The Whale sits on your desktop, provides an interface for local AI interactions, and monitors active windows to nudge you back to productivity when you drift into distraction apps.
 
+![Demo](demo.gif)
+
 ## ✨ Key Features
 
 * **Animated UI:** A frameless, transparent companion that lives on top of your workspace.
