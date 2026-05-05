@@ -37,7 +37,7 @@ python whale_assistant.py
 3.  **Interaction:** 
     *   **Left Click** the whale to toggle the chat interface.
     *   **Click & Drag** to move the whale to any position on your screen.
-    *   **Chat:** Type your query into the input field and press **Enter** to get a response from your local LLM[cite: 1].
+    *   **Chat:** Type your query into the input field and press **Enter** to get a response from your local LLM.
 
 ## ⚙️ Configuration
 You can customize the behavior of your assistant directly in the `whale_assistant.py` file:
